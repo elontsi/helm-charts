@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  my-nginx:
+  - apiVersion: v1
+    appVersion: "1"
+    created: "2021-03-01T14:36:01.513657-06:00"
+    description: Working on building a solid Devops knowledge using Helm
+    digest: 1aca330718cbe68070e6061e0f5c2add81191b5c937e76c38bbfe8dbd42ed5b2
+    name: my-nginx
+    urls:
+    - my-nginx-0.5.0.tgz
+    version: 0.5.0
+generated: "2021-03-01T14:36:01.513103-06:00"
